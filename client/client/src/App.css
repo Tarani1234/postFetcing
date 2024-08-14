@@ -1,0 +1,13 @@
+.container{
+  width: 25%;
+  margin-top: 5rem;
+  padding: 2.5rem 3.5rem;
+  border: 0.6rem solid #f0f0fe;
+}
+label{
+  font-size: 18px;
+  font-weight: 600;
+}
+h2{
+  font-weight: 500;
+}
